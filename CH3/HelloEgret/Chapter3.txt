@@ -40,3 +40,21 @@ Hello Egret
     c. Run
 
     d. Edit 
+
+5. Code Analyze: 
+
+    a. All code sould edit in the /src folder
+
+    b. Project resouce management file: /egretProperties.json
+
+    ...
+
+b. Command Code:
+
+    a. Create: $ egret create [project name]
+
+    b. Build: $ egret build [project name]
+
+    c. Build engine: $ egret build [porject name] -e
+
+    ... on the book page 47
