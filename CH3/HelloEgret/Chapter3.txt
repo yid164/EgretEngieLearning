@@ -1,0 +1,42 @@
+Hello Egret 
+
+1. Feature of Egret Engine 
+
+    a. Easy to use 
+
+    b. Proformance 
+
+    c. Cross Platform 
+
+    d. Compatibility
+
+    e. Tools
+
+    f. Complete Lib
+
+2. Features 
+
+    a. Display list
+
+    b. Disply and Picture edit 
+
+    c. Resource management 
+
+    d. Disply adptive
+
+    e. Particle System
+
+    f. Internet communication (TCP/Restful API)
+
+3. Example:
+    ...
+
+4. Hello World:
+
+    a. Use IDE (Wing)
+
+    b. Creat project
+
+    c. Run
+
+    d. Edit 
