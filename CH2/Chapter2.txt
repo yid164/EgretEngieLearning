@@ -1,0 +1,21 @@
+Front End
+
+1. JavaScript
+
+2. ECMAScript
+
+3. After JavaScript: 
+
+    a. Dart (Google)
+
+    b. CoffeeScript
+
+    c. TypeScript (Microsoft)
+
+4. Web Assembly
+
+    a. JS code -> Bit Code -> Machine Code
+
+5. HTML5 Game development: Game Engine 
+
+5. Egret Runtime 
